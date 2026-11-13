@@ -1,0 +1,3 @@
+[server]
+# Disable the file watcher to prevent the "Inotify queue overflowed" crash
+fileWatcherType = "none"
